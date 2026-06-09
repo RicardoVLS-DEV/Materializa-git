@@ -1,7 +1,7 @@
 /* stile.css */
 .hero {
     background: linear-gradient(135deg, #10b981, #3b82f6); /* cambio verde/azul */
-    color: blue;
+    color: green;
     padding: 80px 0;
     text-align: center;
   }
